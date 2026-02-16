@@ -79,5 +79,5 @@ Android + JavaCard
 ## 📊 Language Distribution in GitHub
 
 <p align="center">
-  <img src="./profile/top-langs.svg" />
+  <img src="./profile/stats.svg" />
 </p>
