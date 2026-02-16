@@ -76,8 +76,8 @@ Android + JavaCard
 
 ---
 
-## 📊 Language Distribution
+## 📊 Language Distribution in GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bunyodrafikov&layout=compact&exclude_repo=valentine-card&hide_title=true&theme=github_dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bunyodrafikov&layout=compact&exclude_repo=valentine-card&hide_title=true&theme=github_dark&hide_border=true" />
 </p>
