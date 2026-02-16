@@ -6,8 +6,6 @@
   Powered by caffeine and compile errors ☕🧠
 </h1>
 
-<p align="center">📍 Malmö, Sweden · 📧 bunirafik@gmail.com</p>
-
 ---
 
 ## 🧠 Languages
